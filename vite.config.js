@@ -1,3 +1,3 @@
 export default {
-  base: '/3d-portfolio/',
+  base: '/3D-PROJECT/',
 };
