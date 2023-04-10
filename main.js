@@ -32,8 +32,8 @@ let projects = [
     url: 'https://www.spaze.social/',
   },
   {
-    image: 'textures/project-myteachers.jpg',
-    url: 'https://myteachers.com.au/',
+    image: 'textures/project-myteachers.gif',
+    url: ' ',
   },
   {
     image: 'textures/project-wholesale.jpg',
