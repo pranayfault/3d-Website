@@ -28,7 +28,7 @@ let clipNames = [
 ];
 let projects = [
   {
-    image: 'textures/project-spaze.webp',
+    image: 'textures/project-spaze.jpg',
     url: 'https://www.spaze.social/',
   },
   {
