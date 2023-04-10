@@ -28,8 +28,8 @@ let clipNames = [
 ];
 let projects = [
   {
-    image: 'textures/project-spaze.jpg',
-    url: 'https://www.spaze.social/',
+    image: 'textures/project-pro',
+    url: '',
   },
   {
     image: 'textures/project-myteachers.gif',
@@ -37,11 +37,11 @@ let projects = [
   },
   {
     image: 'textures/project-me.jpg',
-    url: 'https://wholesale.com.np/',
+    url: ' ',
   },
   {
     image: 'textures/project-hey.jpg',
-    url: 'https://www.peloterosenlaweb.com/',
+    url: ' ',
   },
 ];
 let aboutCameraPos = {
