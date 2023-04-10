@@ -28,7 +28,7 @@ let clipNames = [
 ];
 let projects = [
   {
-    image: 'textures/project-pro',
+    image: 'textures/project-pro.jpg',
     url: '',
   },
   {
