@@ -40,7 +40,7 @@ let projects = [
     url: 'https://wholesale.com.np/',
   },
   {
-    image: 'textures/project-pelotero.jpg',
+    image: 'textures/project-hey.jpg',
     url: 'https://www.peloterosenlaweb.com/',
   },
 ];
