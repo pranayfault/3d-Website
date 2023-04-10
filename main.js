@@ -36,7 +36,7 @@ let projects = [
     url: ' ',
   },
   {
-    image: 'textures/project-wholesale.jpg',
+    image: 'textures/project-me.jpg',
     url: 'https://wholesale.com.np/',
   },
   {
